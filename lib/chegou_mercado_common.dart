@@ -16,4 +16,5 @@ export 'theme/color_outlet.dart';
 export 'theme/font_family_outlet.dart';
 export 'theme/preferences_theme.dart';
 export 'theme/size_outlet.dart';
+export 'theme/theme_data_app.dart';
 export 'types/types.dart';
