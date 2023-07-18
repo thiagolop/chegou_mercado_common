@@ -3,7 +3,6 @@ library chegou_mercado_common;
 export 'package:chegou_mercado_common/chegou_mercado_common.dart';
 
 export 'components/controller_base.dart';
-export 'components/custom_elevated_button.dart';
 export 'components/input_field.dart';
 export 'components/input_field_pattern.dart';
 export 'components/page_state.dart';
